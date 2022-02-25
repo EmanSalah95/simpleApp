@@ -3,7 +3,7 @@ import { StyleSheet } from "react-native";
 export const styles = StyleSheet.create({
   headerCont: {
     backgroundColor: "purple",
-    paddingVertical: 10,
+    paddingVertical: 15,
     alignItems: "center",
     justifyContent: "center",
   },

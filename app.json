@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "firstMobile",
-    "slug": "firstMobile",
+    "name": "simpleApp",
+    "slug": "simpleapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "my iti react native course app\nit consist of three parts.\n-simple gallery.\n-simple todo\n-users list.\n\ni used react native paper for styling .\nreact navigation stack and top-tabs\nreact hooks (useState , useContext , useReducer)\nthe code is well organised with clear structure",
+    "githubUrl": "https://github.com/EmanSalah95/simpleApp"
   }
 }

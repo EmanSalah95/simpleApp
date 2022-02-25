@@ -11,7 +11,7 @@ export default function TodoItem({ todo, toggleCompleted }) {
   return (
     <>
       { (
-          !todo.finished &&
+          // !todo.finished &&     //hide finished todos
         <Card style={styles.todoCard}>
           <View style={styles.todo}>
             <Text style={todo.finished ? styles.finished : {}}>

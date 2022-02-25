@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
   },
   img: {
     width: 300,
-    height: 400,
+    height: '70%',
     borderRadius: 10,
     marginTop: 10,
   },
@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
   },
 
   btn: {
-    borderRadius: 20,
+    borderRadius: 15,
     overflow: "hidden",
     marginTop: 10,
   },
